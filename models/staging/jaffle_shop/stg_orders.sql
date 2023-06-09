@@ -4,4 +4,4 @@ select
     order_date,
     status
 
-from d-foxx-dev.jaffle_shop.orders
+from dbt-tutorial.jaffle_shop.orders

@@ -3,4 +3,4 @@ select
     first_name,
     last_name
 
-from d-foxx-dev.jaffle_shop.customers
+from dbt-tutorial.jaffle_shop.customers
